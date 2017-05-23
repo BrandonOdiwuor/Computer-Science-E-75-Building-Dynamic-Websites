@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+	<pizza>
+		<name>Tomato &amp; Cheese</name>
+		<large>975</large>
+		<small>550</small>
+	</pizza>
+	<pizza>
+		<name>Mushrooms</name>
+		<large>1085</large>
+		<small>685</small>
+	</pizza>
+	<pizza>
+		<name>Hamburg</name>
+		<large>1085</large>
+		<small>685</small>
+	</pizza>
+	<pizza>
+		<name>Pepperoni</name>
+		<large>1085</large>
+		<small>685</small>
+	</pizza>
+	<pizza>
+		<name>Sausage</name>
+		<large>1085</large>
+		<small>685</small>
+	</pizza>
+	<pizza>
+		<name>Hawaiian</name>
+		<large>1180</large>
+		<small>795</small>
+	</pizza>
+
+	<special-dinner>
+		<name>Chicken Wing Dinner</name>
+		<price>725</price>
+	</special-dinner>
+	<special-dinner>
+		<name>Chicken Finger Plate</name>
+		<price>725</price>
+	</special-dinner>
+	<special-dinner>
+		<name>3 Piece Chicken Dinner</name>
+		<price>725</price>
+	</special-dinner>
+	<special-dinner>
+		<name>Cheeseburger or Chicken Burger Plate</name>
+		<price>525</price>
+	</special-dinner>
+	<special-dinner>
+		<name>Chicken Kabob Plate With rice, salad &amp; pita bread</name>
+		<price>785</price>
+	</special-dinner>
+	<special-dinner>
+		<name>Fish &amp; Chips Dinner Served with side salad, french fries &amp; tartar sauce</name>
+		<price>735</price>
+	</special-dinner>
+
+	<side-order>
+		<name>French Fries</name>
+		<price>265</price>
+	</side-order>
+	<side-order>
+		<name>Chicken Wings</name>
+		<price>575</price>
+	</side-order>
+	<side-order>
+		<name>Slice Cheese Pizza</name>
+		<price>165</price>
+	</side-order>
+	<side-order>
+		<name>Slice Pepperoni Pizza</name>
+		<price>185</price>
+	</side-order>
+	<side-order>
+		<name>Chicken Burger</name>
+		<price>275</price>
+	</side-order>
+	<side-order>
+		<name>Cheeseburger</name>
+		<price>275</price>
+	</side-order>
+
+	<salad>
+		<name>Garden</name>
+		<large>450</large>
+		<small>350</small>
+	</salad>
+	<salad>
+		<name>Greek</name>
+		<large>550</large>
+		<small>450</small>
+	</salad>
+	<salad>
+		<name>Chef</name>
+		<large>550</large>
+		<small>450</small>
+	</salad>
+	<salad>
+		<name>Tuna</name>
+		<large>550</large>
+		<small>450</small>
+	</salad>
+	<salad>
+		<name>Grilled Chicken</name>
+		<large>595</large>
+		<small>495</small>
+	</salad>
+	<salad>
+		<name>Kabob Salad With grilled Chicken &amp; feta cheese</name>
+		<large>645</large>
+		<small>545</small>
+	</salad>
+
+	<homemade-calzone>
+		<name>Vegetarian</name>
+		<price>735</price>
+	</homemade-calzone>
+	<homemade-calzone>
+		<name>Sausage</name>
+		<price>735</price>
+	</homemade-calzone>
+	<homemade-calzone>
+		<name>Ham &amp; Cheese</name>
+		<price>735</price>
+	</homemade-calzone>
+	<homemade-calzone>
+		<name>Chicken Cutlet</name>
+		<price>735</price>
+	</homemade-calzone>
+	<homemade-calzone>
+		<name>Grilled Chicken</name>
+		<price>735</price>
+	</homemade-calzone>
+	<homemade-calzone>
+		<name>Meatball</name>
+		<price>735</price>
+	</homemade-calzone>
+
+	<grinder>
+		<name>Meatless</name>
+		<large>495</large>
+		<small>450</small>
+	</grinder>
+	<grinder>
+		<name>Hamburger</name>
+		<large>495</large>
+		<small>450</small>
+	</grinder>
+	<grinder>
+		<name>Cheeseburger</name>
+		<large>575</large>
+		<small>475</small>
+	</grinder>
+	<grinder>
+		<name>Meatball</name>
+		<large>575</large>
+		<small>475</small>
+	</grinder>
+	<grinder>
+		<name>Sausage</name>
+		<large>575</large>
+		<small>475</small>
+	</grinder>
+	<grinder>
+		<name>American</name>
+		<large>575</large>
+		<small>475</small>
+	</grinder>
+
+	<speciality-pizza>
+		<name>Three Aces Special</name>
+		<large>1580</large>
+		<small>980</small>
+	</speciality-pizza>
+	<speciality-pizza>
+		<name>Mediterranean Sliced Tomatoes, Olives, Spinach, Fresh Garlic,
+			Mozzarella &amp; Feta Cheese</name>
+		<large>1580</large>
+		<small>980</small>
+	</speciality-pizza>
+	<speciality-pizza>
+		<name>Vegetarian Sliced Tomatoes, Onion, Peppers, Mushrooms,
+		Broccoli, Mozzarella</name>
+		<large>1580</large>
+		<small>980</small>
+	</speciality-pizza>
+	<speciality-pizza>
+		<name>Meat Lovers Pepperoni, Hamburg, Sausage &amp; Bacon</name>
+		<large>1580</large>
+		<small>980</small>
+	</speciality-pizza>
+	<speciality-pizza>
+		<name>Bbq Grilled Chicken Choice Of Vegetables</name>
+		<large>1580</large>
+		<small>980</small>
+	</speciality-pizza>
+	<speciality-pizza>
+		<name>Grecian Supreme Grilled Chicken, Feta Cheese, Toma-toes, Kalamata
+			Olives</name>
+		<large>1580</large>
+		<small>980</small>
+	</speciality-pizza>
+
+	<spaghetti-or-ziti>
+		<with>Sauce</with>
+		<price>540</price>
+	</spaghetti-or-ziti>
+	<spaghetti-or-ziti>
+		<with>Sausage</with>
+		<price>645</price>
+	</spaghetti-or-ziti>
+	<spaghetti-or-ziti>
+		<with>Meat Ball</with>
+		<price>645</price>
+	</spaghetti-or-ziti>
+	<spaghetti-or-ziti>
+		<with>Veal</with>
+		<price>645</price>
+	</spaghetti-or-ziti>
+	<spaghetti-or-ziti>
+		<with>Chicken Cutlet</with>
+		<price>645</price>
+	</spaghetti-or-ziti>
+	<spaghetti-or-ziti>
+		<with>Mushrooms</with>
+		<price>645</price>
+	</spaghetti-or-ziti>
+
+	<home-made-lasagna-ravioli-or-manicotti>
+		<with>Sauce</with>
+		<price>625</price>
+	</home-made-lasagna-ravioli-or-manicotti>
+	<home-made-lasagna-ravioli-or-manicotti>
+		<with>Sausage</with>
+		<price>725</price>
+	</home-made-lasagna-ravioli-or-manicotti>
+	<home-made-lasagna-ravioli-or-manicotti>
+		<with>Meatball</with>
+		<price>725</price>
+	</home-made-lasagna-ravioli-or-manicotti>
+	<home-made-lasagna-ravioli-or-manicotti>
+		<with>Chicken Cutlet</with>
+		<price>725</price>
+	</home-made-lasagna-ravioli-or-manicotti>
+	<home-made-lasagna-ravioli-or-manicotti>
+		<with>Mushrooms</with>
+		<price>725</price>
+	</home-made-lasagna-ravioli-or-manicotti>
+	<home-made-lasagna-ravioli-or-manicotti>
+		<with>Veggie Lasagna</with>
+		<price>725</price>
+	</home-made-lasagna-ravioli-or-manicotti>
+
+	<wrap>
+		<name>Turkey Club Wrap Turkey, Cheese, Lettuce, Tomato, Onion, Mayo</name>
+		<price>495</price>
+	</wrap>
+	<wrap>
+		<name>Chicken Cobb Grilled Chicken, Bacon, Cheese, lettuce, Tomatop, Onion,
+			Honey Mustard</name>
+		<price>495</price>
+	</wrap>
+	<wrap>
+		<name>Greek Supreme Feta Cheese, Black Olives, Lettuce, Tomato, Onion,
+			Greek Dressing</name>
+		<price>495</price>
+	</wrap>
+	<wrap>
+		<name>Crispy Chicken Chicken Finger, Lettuce, Tomato, Onion,
+			Honey Mustard</name>
+		<price>495</price>
+	</wrap>
+	<wrap>
+		<name>Steak Wrap</name>
+		<price>495</price>
+	</wrap>
+	<wrap>
+		<name>Chicken Shawarma</name>
+		<price>495</price>
+	</wrap>
+</menu>
