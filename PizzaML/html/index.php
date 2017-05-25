@@ -1,1 +1,3 @@
-Hello, World
+<?php
+include('../views/view.php');
+?>
