@@ -44,7 +44,9 @@
 
   <div class="container">
     <div class="" style="text-align:center;">
-      <h3><strong>Three Aces</strong></h3>
+      <h3>
+        <strong>Three Aces</strong>
+      </h3>
       <p>
         1613 Massachusetts Ave<br>
         Cambridge, MA 02139<br>
