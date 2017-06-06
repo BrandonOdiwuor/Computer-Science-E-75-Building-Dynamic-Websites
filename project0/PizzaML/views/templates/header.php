@@ -34,7 +34,15 @@
           </div>
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="index.php">Home</a></li>
+              <?php
+                if(array_key_exists('order_cart', $_SESSION))
+                {
+                  echo '<li><a href="index.php?page=checkout">Checkout Cart</a></li>';
+                }
+              ?>
+            </ul>
           </div>
           <!-- /.navbar-collapse -->
       </div>
@@ -50,7 +58,8 @@
       <p>
         1613 Massachusetts Ave<br>
         Cambridge, MA 02139<br>
-        Btwn Mellen & Everett St
+        Btwn Mellen & Everett St<br>
+
     </p>
     </div>
   </div>

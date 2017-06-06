@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <item id="0">
+    <name>Tomato &amp; Cheese</name>
+    <cartegory>pizza</cartegory>
+    <size>large</size>
+    <price>975</price>
+  </item>
+  <item id="1">
+    <name>Tomato &amp; Cheese</name>
+    <cartegory>pizza</cartegory>
+    <size>small</size>
+    <price>550</price>
+  </item>
+  <item id="2">
+    <name>Mushrooms</name>
+    <cartegory>pizza</cartegory>
+    <size>large</size>
+    <price>1085</price>
+  </item>
+  <item id="3">
+    <name>Mushrooms</name>
+    <cartegory>pizza</cartegory>
+    <size>small</size>
+    <price>685</price>
+  </item>
+  <item id="4">
+    <name>Hamburg</name>
+    <cartegory>pizza</cartegory>
+    <size>large</size>
+    <price>1085</price>
+  </item>
+  <item id="5">
+    <name>Hamburg</name>
+    <cartegory>pizza</cartegory>
+    <size>small</size>
+    <price>685</price>
+  </item>
+  <item id="6">
+    <name>Pepperoni</name>
+    <cartegory>pizza</cartegory>
+    <size>large</size>
+    <price>1085</price>
+  </item>
+  <item id="7">
+    <name>Pepperoni</name>
+    <cartegory>pizza</cartegory>
+    <size>small</size>
+    <price>685</price>
+  </item>
+  <item id="8">
+    <name>Sausage</name>
+    <cartegory>pizza</cartegory>
+    <size>large</size>
+    <price>1085</price>
+  </item>
+  <item id="9">
+    <name>Sausage</name>
+    <cartegory>pizza</cartegory>
+    <size>small</size>
+    <price>685</price>
+  </item>
+  <item id="10">
+    <name>Hawaiian</name>
+    <cartegory>pizza</cartegory>
+    <size>large</size>
+    <price>1180</price>
+  </item>
+  <item id="11">
+    <name>Hawaiian</name>
+    <cartegory>pizza</cartegory>
+    <size>small</size>
+    <price>795</price>
+  </item>
+
+  <item id="12">
+    <name>Chicken Wing Dinner</name>
+    <cartegory>special-dinner</cartegory>
+    <size>regular</size>
+    <price>725</price>
+  </item>
+  <item id="13">
+    <name>Chicken Finger Plate</name>
+    <cartegory>special-dinner</cartegory>
+    <size>regular</size>
+    <price>725</price>
+  </item>
+  <item id="14">
+    <name>3 Piece Chicken Dinner</name>
+    <cartegory>special-dinner</cartegory>
+    <size>regular</size>
+    <price>725</price>
+  </item>
+  <item id="15">
+    <name>Cheeseburger or Chicken Burger Plate</name>
+    <cartegory>special-dinner</cartegory>
+    <size>regular</size>
+    <price>525</price>
+  </item>
+  <item id="16">
+    <name>Chicken Kabob Plate With rice, salad &amp; pita bread</name>
+    <cartegory>special-dinner</cartegory>
+    <size>regular</size>
+    <price>785</price>
+  </item>
+  <item id="17">
+    <name>
+      Fish &amp; Chips Dinner Served with side salad,
+      french fries &amp; tartar sauce
+    </name>
+    <cartegory>special-dinner</cartegory>
+    <size>regular</size>
+    <price>735</price>
+  </item>
+
+  <item id="18">
+    <name>French Fries</name>
+    <cartegory>side-order</cartegory>
+    <size>regular</size>
+    <price>265</price>
+  </item>
+  <item id="19">
+    <name>Chicken Wings</name>
+    <cartegory>side-order</cartegory>
+    <size>regular</size>
+    <price>575</price>
+  </item>
+  <item id="20">
+    <name>Slice Cheese Pizza</name>
+    <cartegory>side-order</cartegory>
+    <size>regular</size>
+    <price>165</price>
+  </item>
+  <item id="21">
+    <name>Slice Pepperoni Pizza</name>
+    <cartegory>side-order</cartegory>
+    <size>regular</size>
+    <price>185</price>
+  </item>
+  <item id="22">
+    <name>Chicken Burger</name>
+    <cartegory>side-order</cartegory>
+    <size>regular</size>
+    <price>275</price>
+  </item>
+  <item id="23">
+    <name>Cheeseburger</name>
+    <cartegory>side-order</cartegory>
+    <size>regular</size>
+    <price>275</price>
+  </item>
+
+  <item id="24">
+    <name>Garden</name>
+    <cartegory>salad</cartegory>
+    <size>large</size>
+    <price>450</price>
+  </item>
+  <item id="25">
+    <name>Garden</name>
+    <cartegory>salad</cartegory>
+    <size>small</size>
+    <price>350</price>
+  </item>
+  <item id="26">
+    <name>Greek</name>
+    <cartegory>salad</cartegory>
+    <size>large</size>
+    <price>550</price>
+  </item>
+  <item id="27">
+    <name>Greek</name>
+    <cartegory>salad</cartegory>
+    <size>small</size>
+    <price>450</price>
+  </item>
+  <item id="28">
+    <name>Chef</name>
+    <cartegory>salad</cartegory>
+    <size>large</size>
+    <price>550</price>
+  </item>
+  <item id="29">
+    <name>Chef</name>
+    <cartegory>salad</cartegory>
+    <size>small</size>
+    <price>450</price>
+  </item>
+  <item id="30">
+    <name>Tuna</name>
+    <cartegory>salad</cartegory>
+    <size>large</size>
+    <price>550</price>
+  </item>
+  <item id="31">
+    <name>Tuna</name>
+    <cartegory>salad</cartegory>
+    <size>small</size>
+    <price>450</price>
+  </item>
+  <item id="32">
+    <name>Grilled Chicken</name>
+    <cartegory>salad</cartegory>
+    <size>large</size>
+    <price>595</price>
+  </item>
+  <item id="33">
+    <name>Grilled Chicken</name>
+    <cartegory>salad</cartegory>
+    <size>small</size>
+    <price>495</price>
+  </item>
+  <item id="34">
+    <name>Kabob Salad With grilled Chicken &amp; feta cheese</name>
+    <cartegory>salad</cartegory>
+    <size>large</size>
+    <price>645</price>
+  </item>
+  <item id="35">
+    <name>Kabob Salad With grilled Chicken &amp; feta cheese</name>
+    <cartegory>salad</cartegory>
+    <size>small</size>
+    <price>545</price>
+  </item>
+
+  <item id="36">
+    <name>Vegetarian</name>
+    <cartegory>homemade-calzone</cartegory>
+    <size>regular</size>
+    <price>735</price>
+  </item>
+  <item id="37">
+    <name>Sausage</name>
+    <cartegory>homemade-calzone</cartegory>
+    <size>regular</size>
+    <price>735</price>
+  </item>
+  <item id="38">
+    <name>Ham &amp; Cheese</name>
+    <cartegory>homemade-calzone</cartegory>
+    <size>regular</size>
+    <price>735</price>
+  </item>
+  <item id="39">
+    <name>Chicken Cutlet</name>
+    <cartegory>homemade-calzone</cartegory>
+    <size>regular</size>
+    <price>735</price>
+  </item>
+  <item id="40">
+    <name>Grilled Chicken</name>
+    <cartegory>homemade-calzone</cartegory>
+    <size>regular</size>
+    <price>735</price>
+  </item>
+  <item id="41">
+    <name>Meatball</name>
+    <cartegory>homemade-calzone</cartegory>
+    <size>regular</size>
+    <price>735</price>
+  </item>
+
+
+  <cartegories>
+    <cartegory>
+      <name>pizza</name>
+    </cartegory>
+    <cartegory>
+      <name>special-dinner</name>
+    </cartegory>
+    <cartegory>
+      <name>side-order</name>
+    </cartegory>
+    <cartegory>
+      <name>salad</name>
+    </cartegory>
+    <cartegory>
+      <name>homemade-calzone</name>
+    </cartegory>
+  </cartegories>
+</menu>
