@@ -1,7 +1,7 @@
 <div class="container">
   <br>
     <p class="text-center">
-      <a href="index.php"><strong>Continue Shopping</strong></a>
+      <a href="home"><strong>Continue Shopping</strong></a>
     </p>
 
   <br>

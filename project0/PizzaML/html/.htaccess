@@ -1,4 +1,6 @@
 RewriteEngine on
-RewriteBase /mvc/7/html
-RewriteRule ^lectures$ index.php?page=lectures [L]
-RewriteRule ^lecture/(.*)$ index.php?page=lecture&n=$1 [L]
+RewriteBase /PizzaML/html
+RewriteRule ^/?checkout$ index.php?page=checkout [L]
+RewriteRule ^/?order\/([0-9]+)$ index.php?page=order&id=$1 [L]
+RewriteRule ^/?order$ index.php?page=order&id=0 [L]
+RewriteRule ^/?home$ index.php [L]

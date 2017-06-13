@@ -5,7 +5,7 @@
         <h2 class="panel-title"><strong>Select Cartegory</strong></h2>
     </div>
     <div class="panel-body">
-      <form class="" action="../html/index.php" method="get">
+      <form class="" action="../html/home" method="post">
         <div class="input-group">
           <input type="hidden" class="form-control" name="page" value="cartegory">
           <select class="form-control" name="cartegory">

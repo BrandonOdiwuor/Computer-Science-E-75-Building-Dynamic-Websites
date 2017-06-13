@@ -13,7 +13,7 @@
       ?>
     </div>
     <div class="panel-footer">
-      <form class="" action="index.php" method="get">
+      <form class="" action="../index.php" method="get">
         <input type="hidden" class="form-control" name="page" value="cartHandler">
         <input type="hidden" class="form-control" name="id" value="<?php echo $order_number?>">
         <div class="form-group">

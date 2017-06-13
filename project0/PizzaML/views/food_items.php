@@ -16,7 +16,7 @@
       echo '<strong>Price: </strong>$ '. $price;
       echo '</div>';
       echo '<div class="panel-footer">';
-      echo '<a class="btn btn-primary btn-block" href="index.php?page=order&id='.$food_item['id'].'">Order</a>';
+      echo '<a class="btn btn-primary btn-block" href="order/'.$food_item['id'].'">Order</a>';
       echo '</div>';
       echo '</div>';
       echo "<br>";

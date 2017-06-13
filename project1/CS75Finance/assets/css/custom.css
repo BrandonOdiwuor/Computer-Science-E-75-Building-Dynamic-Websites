@@ -1,0 +1,25 @@
+.top{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+#logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav-pills > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+     zoom:1; /* hasLayout ie7 trigger */
+}
+
+.nav-pills {
+    text-align:center;
+}
+
+#sign-in{
+  padding-top: 20px;
+}

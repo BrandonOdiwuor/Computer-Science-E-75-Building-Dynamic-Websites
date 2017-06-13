@@ -1,0 +1,10 @@
+RewriteEngine on
+RewriteBase /CS75Finance/html
+RewriteRule ^/?register$ index.php?page=sign_up [L]
+RewriteRule ^/?login$ index.php?page=sign_in [L]
+RewriteRule ^/?home$ index.php [L]
+RewriteRule ^/?quote$ index.php?page=quote [L]
+RewriteRule ^/?buy$ index.php?page=buy [L]
+RewriteRule ^/?sell$ index.php?page=sell [L]
+RewriteRule ^/?transactions$ index.php?page=transactions [L]
+RewriteRule ^/?logout$ index.php?page=sign_out [L]

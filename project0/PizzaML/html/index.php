@@ -8,6 +8,8 @@ $model = new Food;
 // determine which page to render
 if (isset($_GET['page']))
   $page = $_GET['page'];
+elseif(isset($_POST['page']))
+  $page = $_POST['page'];
 else
   $page = 'index';
 
@@ -21,12 +23,12 @@ switch ($page)
     break;
 
   case 'cartegory':
-    if(isset($_GET['cartegory']))
+    if(isset($_POST['cartegory']))
     {
         render('templates/header');
         render(
           'food_items',
-          array('food_items' => $model->index($_GET['cartegory'])));
+          array('food_items' => $model->index($_POST['cartegory'])));
         render('templates/footer');
     }
     break;
@@ -34,7 +36,7 @@ switch ($page)
   case 'order':
     if(isset($_GET['id']))
     {
-      render('templates/header');
+      render('templates/header', array('level' => 3));
       $order_number = htmlspecialchars($_GET['id']);
       $details = $model->order_detail($order_number);
       render(
@@ -49,7 +51,7 @@ switch ($page)
     $order_quantity = htmlspecialchars($_GET['quantity']);
     $order_price = $model->price($order_number);
     add_food_to_cart($order_number, $order_price, $order_quantity);
-    header('Location: index.php?page=checkout');
+    header('Location: checkout');
     break;
 
   case 'checkout':
@@ -72,7 +74,7 @@ switch ($page)
 
   case 'pay':
     session_unset();
-    header('Location: index.php');
+    header('Location: home');
     break;
 }
 
